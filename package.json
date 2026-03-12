@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/miofin/studybuddy/issues"
   },
-  "homepage": "https://github.com/miofin/studybuddy#readme"
+  "homepage": "https://github.com/miofin/studybuddy#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
